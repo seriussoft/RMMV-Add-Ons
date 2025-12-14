@@ -91,7 +91,7 @@ SSSRPG Children-Group Add-Ons and Grand-Children Add-Ons
     - SSSRPG-Isometric-2_5D-Sprites						                    _<pre class='text-quick-detail'>...</pre>_
     - SSSRPG-Isometric-2_5D-Animations						                _<pre class='text-quick-detail'>...</pre>_
 	- SSSRPG-Battle-Manager						                              _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Battle-BattleFlowPrioritizedQueue					          _<pre class='text-quick-detail'>Battle-BFPQ / Battle Battle-Flow-Prioritized-Queue (OoP :: Order of Operations)</pre>_
+    - SSSRPG-Battle-BattleFlowPrioritizedQueue					          _`Battle-BFPQ / Battle Battle-Flow-Prioritized-Queue (OoP :: Order of Operations)`_
     - SSSRPG-Battle-Tile-Selector                                 _<pre class='text-quick-detail'>...</pre>_
     - SSSRPG-Battle-Character-Menus                               _<pre class='text-quick-detail'>...</pre>_
     - SSSRPG-Battle-Character-View-Stats                          _<pre class='text-quick-detail'>...</pre>_
@@ -105,7 +105,7 @@ SSSRPG Children-Group Add-Ons and Grand-Children Add-Ons
   - SSSRPG-FG-and-BG-Overlays						                          _<pre class='text-quick-detail'>...</pre>_
     - SSSRPG-BG-Overlay-Mode7						                          _<pre class='text-quick-detail'>...</pre>_
     - SSSRPG-BG-Overlay-Animated						                      _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-BG-Overlay-Para????                                  _<pre class='text-quick-detail'>Where Layers closer are faster to move/modulate than layers farther away</pre>_
+    - SSSRPG-BG-Overlay-Para????                                  _`Where Layers closer are faster to move/modulate than layers farther away`_
     - SSSRPG-FG-Overlay-Mode7                                     _<pre class='text-quick-detail'>...</pre>_
     - SSSRPG-FG-Overlay-Animated                                  _<pre class='text-quick-detail'>...</pre>_
     - SSSRPG-FG-Overlay-Layered                                   _<pre class='text-quick-detail'>...</pre>_
