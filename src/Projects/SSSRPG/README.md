@@ -13,30 +13,30 @@
 ### Main Add-On
 
 **ToC:**
-  Depencies Add-Ons
-    1. ????
-    2. ????
-    3. ????
-    4. ????
-  Child Add-Ons
-    1. SSSRPG-Battle
-    2. SSSRPG-WorldMap
-    3. SSSRPG-Party
-    4. SSSRPG-AAAA
-    5. SSSRPG-BBBB
-    6. SSSRPG-CCCC
-    7. SSSRPG-DDDD
-    8. SSSRPG-EEEE
-  Depends-On-Me Add-Ons
-    1. ????
-    2. ????
-    3. ????
-    4. ????
-  Works-With-Me Add-Ons
-    1. ????
-    2. ????
-    3. ????
-    4. ????
+  	Depencies Add-Ons
+    	1. ????
+    	2. ????
+    	3. ????
+    	4. ????
+  	Child Add-Ons
+    	1. SSSRPG-Battle
+    	2. SSSRPG-WorldMap
+    	3. SSSRPG-Party
+    	4. SSSRPG-AAAA
+    	5. SSSRPG-BBBB
+    	6. SSSRPG-CCCC
+    	7. SSSRPG-DDDD
+    	8. SSSRPG-EEEE
+  	Depends-On-Me Add-Ons
+    	1. ????
+    	2. ????
+    	3. ????
+    	4. ????
+  	Works-With-Me Add-Ons
+    	1. ????
+    	2. ????
+    	3. ????
+    	4. ????
 
 ### Dependencies Add-Ons
 
@@ -77,48 +77,48 @@ ToC:
 
 SSSRPG Children-Group Add-Ons and Grand-Children Add-Ons
 -----------------------------------------------------------------------
-  - SSSRPG-Maps						                                        _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-WorldMap						                                  _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-FieldMap						                                  _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-BattleMap						                                _<pre class='text-quick-detail'>...</pre>_
-  - SSSRPG-Events-and-Cinema						                          _<pre class='text-quick-detail'>...</pre>_
-  - SSSRPG-Isometric-2_5D-MapsBuilder						                  _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Isometric-2_5D-WorldMapBuilder						            _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Isometric-2_5D-FieldMapBuilder						            _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Isometric-2_5D-BattleMapBuilder						          _<pre class='text-quick-detail'>...</pre>_
-  - SSSRPG-Isometric-2_5D-Tiles-Sprites-and-Animations						_<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Isometric-2_5D-Tiler						                      _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Isometric-2_5D-Sprites						                    _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Isometric-2_5D-Animations						                _<pre class='text-quick-detail'>...</pre>_
-	- SSSRPG-Battle-Manager						                              _<pre class='text-quick-detail'>...</pre>_
+  - SSSRPG-Maps						                                        _`...`_
+    - SSSRPG-WorldMap						                                  _`...`_
+    - SSSRPG-FieldMap						                                  _`...`_
+    - SSSRPG-BattleMap						                                _`...`_
+  - SSSRPG-Events-and-Cinema						                          _`...`_
+  - SSSRPG-Isometric-2_5D-MapsBuilder						                  _`...`_
+    - SSSRPG-Isometric-2_5D-WorldMapBuilder						            _`...`_
+    - SSSRPG-Isometric-2_5D-FieldMapBuilder						            _`...`_
+    - SSSRPG-Isometric-2_5D-BattleMapBuilder						          _`...`_
+  - SSSRPG-Isometric-2_5D-Tiles-Sprites-and-Animations						_`...`_
+    - SSSRPG-Isometric-2_5D-Tiler						                      _`...`_
+    - SSSRPG-Isometric-2_5D-Sprites						                    _`...`_
+    - SSSRPG-Isometric-2_5D-Animations						                _`...`_
+	- SSSRPG-Battle-Manager						                              _`...`_
     - SSSRPG-Battle-BattleFlowPrioritizedQueue					          _`Battle-BFPQ / Battle Battle-Flow-Prioritized-Queue (OoP :: Order of Operations)`_
-    - SSSRPG-Battle-Tile-Selector                                 _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Battle-Character-Menus                               _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Battle-Character-View-Stats                          _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Isometric-2_5D-RecursiveMovementDiscovery            _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Isometric-2_5D-Pathing                               _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Isometric-2_5D-AttackAnimations                      _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-NonIsometric-Isolated-2_5D-AttackAnimations          _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-NonIsometric-Isolated-Horizontal-AttackAnimations    _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-NonIsometric-Isolated-AttackAnimations               _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-2D-to-Isometric-2_5D-Projection                      _<pre class='text-quick-detail'>...</pre>_
-  - SSSRPG-FG-and-BG-Overlays						                          _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-BG-Overlay-Mode7						                          _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-BG-Overlay-Animated						                      _<pre class='text-quick-detail'>...</pre>_
+    - SSSRPG-Battle-Tile-Selector                                 _`...`_
+    - SSSRPG-Battle-Character-Menus                               _`...`_
+    - SSSRPG-Battle-Character-View-Stats                          _`...`_
+    - SSSRPG-Isometric-2_5D-RecursiveMovementDiscovery            _`...`_
+    - SSSRPG-Isometric-2_5D-Pathing                               _`...`_
+    - SSSRPG-Isometric-2_5D-AttackAnimations                      _`...`_
+    - SSSRPG-NonIsometric-Isolated-2_5D-AttackAnimations          _`...`_
+    - SSSRPG-NonIsometric-Isolated-Horizontal-AttackAnimations    _`...`_
+    - SSSRPG-NonIsometric-Isolated-AttackAnimations               _`...`_
+    - SSSRPG-2D-to-Isometric-2_5D-Projection                      _`...`_
+  - SSSRPG-FG-and-BG-Overlays						                          _`...`_
+    - SSSRPG-BG-Overlay-Mode7						                          _`...`_
+    - SSSRPG-BG-Overlay-Animated						                      _`...`_
     - SSSRPG-BG-Overlay-Para????                                  _`Where Layers closer are faster to move/modulate than layers farther away`_
-    - SSSRPG-FG-Overlay-Mode7                                     _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-FG-Overlay-Animated                                  _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-FG-Overlay-Layered                                   _<pre class='text-quick-detail'>...</pre>_
-  - SSSRPG-GraphicalMenusManager                                  _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Party                                                _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Troup / SSSRPG-Companions                            _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Jobs-and-Classes-Viewer                              _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Abilities-Lists-and-Manipulator                      _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-Story-Diver                                          _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-WorldMap-MainMenu                                    _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-FieldMap-MainMenu                                    _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-BattleMap-MainMenu                                   _<pre class='text-quick-detail'>...</pre>_
-  - SSSRPG-ShopsAndEvents                                         _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-ShopMenu                                             _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-ChurchMenu                                           _<pre class='text-quick-detail'>...</pre>_
-    - SSSRPG-EventMenu                                            _<pre class='text-quick-detail'>...</pre>_
+    - SSSRPG-FG-Overlay-Mode7                                     _`...`_
+    - SSSRPG-FG-Overlay-Animated                                  _`...`_
+    - SSSRPG-FG-Overlay-Layered                                   _`...`_
+  - SSSRPG-GraphicalMenusManager                                  _`...`_
+    - SSSRPG-Party                                                _`...`_
+    - SSSRPG-Troup / SSSRPG-Companions                            _`...`_
+    - SSSRPG-Jobs-and-Classes-Viewer                              _`...`_
+    - SSSRPG-Abilities-Lists-and-Manipulator                      _`...`_
+    - SSSRPG-Story-Diver                                          _`...`_
+    - SSSRPG-WorldMap-MainMenu                                    _`...`_
+    - SSSRPG-FieldMap-MainMenu                                    _`...`_
+    - SSSRPG-BattleMap-MainMenu                                   _`...`_
+  - SSSRPG-ShopsAndEvents                                         _`...`_
+    - SSSRPG-ShopMenu                                             _`...`_
+    - SSSRPG-ChurchMenu                                           _`...`_
+    - SSSRPG-EventMenu                                            _`...`_
