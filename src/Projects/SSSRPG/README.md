@@ -12,31 +12,31 @@
 
 ### Main Add-On
 
-**ToC:**
-  	Depencies Add-Ons
-    	1. ????
-    	2. ????
-    	3. ????
-    	4. ????
-  	Child Add-Ons
-    	1. SSSRPG-Battle
-    	2. SSSRPG-WorldMap
-    	3. SSSRPG-Party
-    	4. SSSRPG-AAAA
-    	5. SSSRPG-BBBB
-    	6. SSSRPG-CCCC
-    	7. SSSRPG-DDDD
-    	8. SSSRPG-EEEE
-  	Depends-On-Me Add-Ons
-    	1. ????
-    	2. ????
-    	3. ????
-    	4. ????
-  	Works-With-Me Add-Ons
-    	1. ????
-    	2. ????
-    	3. ????
-    	4. ????
+##### ToC:
+- [ ] Depencies Add-Ons
+    1. ????
+    2. ????
+    3. ????
+    4. ????
+- [ ] Child Add-Ons
+    1. SSSRPG-Battle
+    2. SSSRPG-WorldMap
+    3. SSSRPG-Party
+    4. SSSRPG-AAAA
+    5. SSSRPG-BBBB
+    6. SSSRPG-CCCC
+    7. SSSRPG-DDDD
+    8. SSSRPG-EEEE
+- [ ] Depends-On-Me Add-Ons
+    1. ????
+    2. ????
+    3. ????
+    4. ????
+- [ ] Works-With-Me Add-Ons
+    1. ????
+    2. ????
+    3. ????
+    4. ????
 
 ### Dependencies Add-Ons
 
@@ -44,8 +44,8 @@
 
 _**See very bottom of file for more detailed listing of Children-Group Add-Ons and Grand-Children Add-Ons**_
 
-ToC:
-  Child Add-Ons
+##### ToC:
+- [ ] Child Add-Ons
     1. SSSRPG-Battle
     2. SSSRPG-WorldMap
     3. SSSRPG-Party
